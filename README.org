@@ -4,6 +4,6 @@ A progress bar.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/vindarel/progressons.git |
-| commit  | 3c26698                                         |
+| commit  | 0ec559a                                         |
 | systems | progressons                                     |
 |---------+-------------------------------------------------|
